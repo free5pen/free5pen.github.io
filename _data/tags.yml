@@ -1,0 +1,37 @@
+# Note:
+# If you are using the createtag script, don't leave an blank line at the end of this file.
+# In other words, the last line must be the last tag in the allowed-tags list.
+allowed-tags:
+  - getting_started
+  - content_types
+  - navigation
+  - formatting
+  - publishing
+  - single_sourcing
+  - special_layouts
+  - collaboration
+  - news
+  - troubleshooting
+  - mobile
+  - intent
+  - parameter
+  - entity
+  - simulation
+  - test
+  - analytics
+  - log
+  - nlu
+  - chatflow
+  - facebook
+  - kakaotalk
+  - kakao
+  - line
+  - telegram
+  - slack
+  - channel
+  - frogue
+  - messenger
+  - API
+  - navertalktalk
+  - naver
+  - settings

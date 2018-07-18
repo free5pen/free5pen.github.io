@@ -1,0 +1,169 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: danbee.Ai Doc
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 시작하기
+    output: web, pdf
+    folderitems:
+
+    - title: 챗봇 기본 상식
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: 간단한 챗봇 만들어보기
+      url: /basic_create_chatbot.html
+      output: web, pdf
+
+  - title: 주요 기능
+    output: web, pdf
+    folderitems:
+
+    - title: 의도 관리
+      url: /intent.html
+      output: web, pdf
+
+    - title: 엔티티 관리
+      url: /entity.html
+      output: web, pdf
+
+      subfolders:
+      - title: 대화흐름 관리
+        output: web, pdf
+        subfolderitems:    
+        - title: 대화흐름 기본 설명
+          url: /chatflow.html
+          output: web, pdf
+
+        - title: Listen 노드
+          url: /chatflow_listen.html
+          output: web, pdf
+
+        - title: Speak 노드
+          url: /chatflow_speak.html
+          output: web, pdf
+
+        - title: Slot 노드
+          url: /chatflow_slot.html
+          output: web, pdf
+
+        - title: Split 노드
+          url: /chatflow_split.html
+          output: web, pdf
+
+        - title: Carousel 노드
+          url: /chatflow_carousel.html
+          output: web, pdf
+
+        - title: API 노드
+          url: /chatflow_api.html
+          output: web, pdf
+
+        - title: Function 노드
+          url: /chatflow_function.html
+          output: web, pdf   
+
+        - title: Jump 노드
+          url: /chatflow_jump.html
+          output: web, pdf             
+
+    - title: 사용자사전 관리
+      url: /dictionary.html
+      output: web, pdf               
+
+      subfolders:
+      - title: 챗봇 설정
+        output: web, pdf
+        subfolderitems:
+        - title: 기본답변 설정
+          url: /settings_personality.html
+          output: web, pdf
+
+        - title: NLU 설정 
+          url: /settings_nlu.html
+          output: web, pdf
+
+    - title: 대화 이력 관리
+      url: /log.html
+      output: web, pdf
+
+    - title: 테스트 패널 및 시뮬레이션
+      url: /demo_n_test_panel.html
+      output: web, pdf
+
+  - title: 채널 연계
+    output: web, pdf
+    folderitems:
+
+    - title: 챗봇 채널 연계 설정
+      url: /channel_connection_settings.html
+      output: web, pdf
+
+      subfolders: 
+      - title: 외부 채널 설정
+        output: web, pdf
+        subfolderitems:    
+        - title: Frogue(자체웹채널)
+          url: /channel_frogu.html
+          output: web, pdf
+
+        - title: Native App(API)
+          url: /channel_native_app.html
+          output: web, pdf
+
+        - title: Facebook
+          url: /channel_facebook.html
+          output: web, pdf
+
+        - title: LINE
+          url: /channel_line.html
+          output: web, pdf
+
+        - title: Telegram
+          url: /channel_telegram.html
+          output: web, pdf
+
+        - title: KakaoTalk
+          url: /channel_kakaotalk.html
+          output: web, pdf
+
+        - title: 네이버톡톡
+          url: /channel_navertalk.html
+          output: web, pdf
+          
+        - title: Slack
+          url: /channel_slack.html
+          output: web, pdf
+
+  - title: 외부 API 사용
+    output: web, pdf
+
+    folderitems:
+    - title: API 관리
+      url: /external_API_management.html
+      output: web, pdf
+
+  - title: 사용자 의견 보내기
+    output: web, pdf
+
+    folderitems:
+    - title: 사용자 의견 보내기
+      url: /feedback.html
+      output: web, pdf
