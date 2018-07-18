@@ -12,7 +12,7 @@ site_title: DAP Chatbot Document
 company_name: LG CNS.
 # this appears in the footer
 
-github_editme_path: free5pen/free5pen.github.io/
+github_editme_path: free5pen/free5pen.github.io/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
