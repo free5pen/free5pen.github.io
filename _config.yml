@@ -78,7 +78,7 @@ defaults:
       layout: "page"
       comments: true
       search: true
-      sidebar: danbee_doc_sidebar
+      sidebar: chatbot_doc_sidebar
       topnav: topnav
   -
     scope:
