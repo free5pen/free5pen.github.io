@@ -17,13 +17,12 @@ next: {
 챗봇 서비스들이 많이 등장하면서 챗봇과의 대화가 점점 익숙해지고 있지만 나에게 필요한 챗봇을 직접 만드는 것은 아직은 생소한 일입니다. 어디서부터 어떻게 시작해야 할지 고민되는 분들을 위해 튜토리얼 및 다양한 지원을 하고 있습니다.
 - <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" style="margin: 0px 5px"></i>[Tutorial](/samplebot.html)</span> : 챗봇을 만드는 방법을 순서대로 배우면서 기본기를 익힐 수 있습니다.
 - <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" style="margin: 0px 5px"></i>[Document](/index.html)</span> : 기능 별 자세한 설명을 제공하고 있습니다.
-- <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" 
 
 ## 샘플챗봇 따라하기
 
 처음 챗봇을 만들어보시는 분들을 위해 차근차근 따라하며 챗봇을 만들어보실 수 있도록 샘플챗봇을 만드는 방법을 튜토리얼로 제공하고 있습니다.
 
-- <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" style="margin: 0px 5px"></i>[튜토리얼봇](/basic_create_intent.html)</span> : danbee.Ai의 여러 가지 기능들을 쉬운 것부터 하나씩 익혀볼 수 있습니다. Tutorial 1부터 8까지가 튜토리얼봇에 대한 단계별 설명입니다.
+- <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" style="margin: 0px 5px"></i>[튜토리얼봇](/basic_create_intent.html)</span> : 챗봇의 여러 가지 기능들을 쉬운 것부터 하나씩 익혀볼 수 있습니다. Tutorial 1부터 8까지가 튜토리얼봇에 대한 단계별 설명입니다.
 - <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" style="margin: 0px 5px"></i>[피자주문봇](/advanced_order_pizza_bot.html)</span> : 챗봇을 이용하여 서비스를 만들어보는 예시로 피자주문봇을 만들어볼 수 있습니다. 기본적인 기능들을 모두 담고 있으므로 응용하여 다른 새로운 챗봇을 만드는데 많은 도움이 될 것입니다.
 
 ## 샘플챗봇 가져오기

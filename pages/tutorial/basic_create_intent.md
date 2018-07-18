@@ -2,7 +2,7 @@
 title: Intent 생성하기
 tags: [intent, chatflow]
 keywords: Tutorial
-summary: danbee.Ai의 기본 구조를 이해할 수 있습니다.
+summary: 챗봇의 기본 구조를 이해할 수 있습니다.
 sidebar: tutorial_sidebar
 permalink: basic_create_intent.html
 folder: tutorial
@@ -17,16 +17,16 @@ next: {
 ---
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/nuaRRwKoAYA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-영상으로 danbee.Ai 사용법을 배울 수 있습니다. 위 영상은 튜토리얼의 ***1. Intent 생성하기***와 ***2. Chatflow 생성하기***의 내용을 포함합니다. 
+영상으로 챗봇 사용법을 배울 수 있습니다. 위 영상은 튜토리얼의 ***1. Intent 생성하기***와 ***2. Chatflow 생성하기***의 내용을 포함합니다. 
 
-## danbee.Ai의 기본 구조
+## 챗봇의 기본 구조
 
 챗봇의 기본 동작원리를 생각해보면 사람들이 대화할 때 일어나는 의식의 흐름과 크게 다르지 않습니다. 사용자가 챗봇에게 어떤 말을 걸면 챗봇이 그 말을 듣고 사용자의 의도를 파악하여 적절한 답변을 하게 됩니다. 원활한 대화가 되기 위해서는 말을 잘 이해하고, 원하는 대답을 해주는 것이 중요합니다.
-이를 위해 danbee.Ai의 기본 구조는 크게 사용자의 의도(Intent)를 파악할 수 있는 ***자연어 이해(NLU)***와 여러 상황에 따라 적절하게 답변을 할 수 있도록 대화를 설계하는 ***대화흐름(Chatflow)***으로 구성되어 있습니다. 
+이를 위해 챗봇의 기본 구조는 크게 사용자의 의도(Intent)를 파악할 수 있는 ***자연어 이해(NLU)***와 여러 상황에 따라 적절하게 답변을 할 수 있도록 대화를 설계하는 ***대화흐름(Chatflow)***으로 구성되어 있습니다. 
 어떤 말을 알아들을 것인지와 어떻게 대답할 것인지를 정의하면 하나의 대화를 완성할 수 있습니다.
 
 ## 챗봇 생성
-danbee.Ai를 이용하려면 먼저 <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" style="margin: 0px 5px"></i>[로그인](https://danbee.ai/platform/#/danbeelogin)</span>을 해주셔야 합니다.
+챗봇을 이용하려면 먼저 <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" style="margin: 0px 5px"></i>[로그인](https://dap.lgcns.com/sportal/common/login/retrieveLoginForm.do)</span>을 해주셔야 합니다.
 
 처음 로그인을 하시면, 먼저 챗봇을 만들어주세요.
 챗봇 생성방법은 document의 <span style="color:#f69023;"><i class="fa fa-external-link-square" aria-hidden="true" style="margin: 0px 5px"></i>[간단한 챗봇 만들어보기](/basic_create_chatbot.html)</span>를 참고하시면 됩니다.
